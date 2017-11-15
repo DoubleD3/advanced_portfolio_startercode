@@ -1,26 +1,31 @@
-/* Nav Bar CSS */
-
-
-/* Header CSS */
-
-
-
-/* Section CSS */
-
-
-
-/* About Section CSS */
-
-
-
-/* Portfolio Item CSS */
-
-
-
-/* Footer CSS */
-
-
-
-/* Button CSS */
-
-
+    header {
+      text-align: center;
+      background-size: 50% 50%;
+      background-repeat: no-repeat;
+      color: orange;
+      background-color: black;
+    }
+    
+    li {
+      display: inline;
+       text-align: center;
+    }
+    div{
+      max-width: 500px;
+      
+    }
+    @media (max-width: 500px) {
+     
+    }
+  #about{
+  background-color: black;
+  }
+  
+  .img{
+    background: url('images/C9.IO.jpg');
+    background-size: contain;
+    margin: auto;
+    padding:0px;
+    border: none;
+    display: block;
+  }
