@@ -1,5 +1,4 @@
     header {
-      text-align: center;
       background-size: 50% 50%;
       background-repeat: no-repeat;
       color: orange;
@@ -21,7 +20,7 @@
   background-color: black;
   }
   
-  .img{
+  .my-img{
     background: url('images/C9.IO.jpg');
     background-size: contain;
     margin: auto;
@@ -29,3 +28,12 @@
     border: none;
     display: block;
   }
+  
+  .form-control {
+    background:rgba(0, 0, 0, 0.6);
+    border: 2px solid lightblue;
+}
+
+.jumbotron{
+   background:rgba(0, 0, 0, 0.6); 
+}
