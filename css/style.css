@@ -9,24 +9,11 @@
       display: inline;
        text-align: center;
     }
-    div{
-      max-width: 500px;
-      
-    }
     @media (max-width: 500px) {
      
     }
   #about{
   background-color: black;
-  }
-  
-  .my-img{
-    background: url('images/C9.IO.jpg');
-    background-size: contain;
-    margin: auto;
-    padding:0px;
-    border: none;
-    display: block;
   }
   
   .form-control {
